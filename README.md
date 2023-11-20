@@ -4,5 +4,5 @@ A command line alternative to replacing a windows wallpaper, for machines with l
 ## Single Line Execution
 Run this line within a windows command prompt window 
 ```cmd
-curl https://raw.githubusercontent.com/FlatSys/commandline-wallpaper-win/main/wallpaper.bat | cmd
+curl https://raw.githubusercontent.com/FlatSys/commandline-wallpaper-win/main/run.bat | cmd
 ```
